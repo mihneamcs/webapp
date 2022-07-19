@@ -1,0 +1,11 @@
+.image{
+    width: 640px;
+    height: 427px;
+    filter: blur(1px);
+}
+.descriere{
+    padding-bottom: 150px;
+}
+.short{
+    font-size: larger;
+}
